@@ -1,5 +1,5 @@
-### Gerardo (Jerry) Gonzalez
-### LinkedIn: www.linkedin.com/in/gerardojerrygonzalez
+
+## Gerardo (Jerry) Gonzalez<br>LinkedIn: www.linkedin.com/in/gerardojerrygonzalez
 
 # Welcome to My Data Science ePortfolio!
 #### The ePortfolio contains seven (7) real-world projects that were completed as part of the University of Texas at Austin's Post Graduate Program in Data Science and Analytics, offered by Great Learning.
@@ -162,8 +162,6 @@ This project not only refined my technical proficiency in linear regression and 
 
 I successfully completed the eNews Express project as part of the Business Statistics Foundations course in the University of Texas at Austin's Post Graduate Program in Data Science and Business Analytics, offered by Great Learning. This project was instrumental in enhancing my business statistics, exploratory data analysis, and data science expertise.
 
-This project not only honed my technical skills building linear regression models but also enhanced my ability to derive actionable insights from data, preparing me thoroughly for a Data Science role.
-
 ### Project Overview:
 In this project, I acted as a Data Scientist for an electronic news company. My objective was to evaluate the effectiveness of a new landing page for the online news portal, E-news Express, in attracting new subscribers. Through statistical analysis, A/B testing, and data visualization, I assessed key metrics such as conversion rates and time spent on the page. Additionally, I examined the relationship between conversion rates and preferred language to provide comprehensive insights.
 
@@ -182,7 +180,7 @@ In this project, I acted as a Data Scientist for an electronic news company. My 
 
 **#ExploratoryDataAnalysis, #UnivariateAnalysis, #BivariateAnalysis, #Python, #a/bTesting, #HypothesisTesting, #DataVisualization, #FeatureEngineering, #CorrelationAnalysis, #MachineLearning, #StatisticalInference**
 
-This project not only honed my technical skills but also enhanced my ability to derive actionable insights from data, preparing me thoroughly for a Data Science role.
+This project not only honed my technical skills building linear regression models but also enhanced my ability to derive actionable insights from data, preparing me thoroughly for a Data Science role.
 
 # Welcome to My FoodHub Project Work!
 <p align="center">
