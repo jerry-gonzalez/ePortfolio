@@ -121,7 +121,7 @@ I successfully completed the INN Hotel project as part of the Supervised Learnin
 ### Project Overview:
 In this project, I acted as a Data Scientist for the INN Hotels group that was facing problems with the high number of booking cancellations for their chain of hotels. My objective was to develop a Machine Learning (ML) solution capable of accurately predicting booking cancellations in advance. This predictive model will empower INN Hotels Group to anticipate and proactively address potential cancellations, thereby minimizing revenue loss, optimizing resource allocation, and enhancing overall operational efficiency. This will also allow INN Hotel to institute new profitably policies on cancellations and refunds.
 
-* [Inn Hotels Project Python Code and Analysis](https://jerry-gonzalez.github.io/ePortfolio/DS/prj4_INN_hotels/Project4_INNHotels_JerryGonzalez.html)
+* [INN Hotels Project Python Code and Analysis](https://jerry-gonzalez.github.io/ePortfolio/DS/prj4_INN_hotels/Project4_INNHotels_JerryGonzalez.html)
 
 ### Skills Demonstrated:
 - **Data Cleaning and Preprocessing:** Conducted thorough data cleaning to handle missing values, outliers, and inconsistencies, ensuring a reliable dataset for analysis. This involved data normalization, encoding categorical variables, and addressing data imbalances.
