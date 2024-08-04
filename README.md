@@ -78,7 +78,7 @@ In the ReneWind project, I played the role of a Data Scientist for a company foc
 
 This project sharpened my skills in classification modeling and predictive maintenance, allowing me to accurately predict generator failures and enable proactive maintenance for wind turbines. By handling complex datasets with 40 predictor variables and employing techniques like hyperparameter tuning and imbalanced data handling, I enhanced model performance significantly. This experience equipped me to develop robust ML solutions that improve operational efficiency and strategic decision-making, preparing me well for advanced roles in data science and business analytics.
 
-# Welcome to My Easy Visa Project Work!
+# Welcome to My EasyVisa Project Work!
 <p align="center">
    <img src="https://jerry-gonzalez.github.io/ePortfolio/DS/assets/images/easy_visa.jpeg" alt="Alt text" width="50%">
 </p>
