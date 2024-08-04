@@ -1,10 +1,10 @@
 
 <div style="text-align: center;">
-  <h3>Gerardo (Jerry) Gonzalez<br>
+  <h2>Gerardo (Jerry) Gonzalez<br>
   <a href="https://www.linkedin.com/in/gerardojerrygonzalez">
     <img src="https://jerry-gonzalez.github.io/ePortfolio/DS/assets/images/LI-Logo.png" alt="LinkedIn" style="vertical-align: middle; width: 8%; height: 8%;">
   </a>
-  </h3>
+  </h2>
 </div>
 
 # Welcome to My Data Science ePortfolio!
