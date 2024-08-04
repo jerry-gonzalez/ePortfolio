@@ -1,5 +1,11 @@
 
-#### Gerardo (Jerry) Gonzalez<br>[LinkedIn](https://www.linkedin.com/in/gerardojerrygonzalez)
+<div style="text-align: center;">
+  <h3>Gerardo (Jerry) Gonzalez<br>
+  <a href="https://www.linkedin.com/in/gerardojerrygonzalez">
+    <img src="https://jerry-gonzalez.github.io/ePortfolio/DS/assets/images/LI-Logo.png" alt="LinkedIn" style="vertical-align: middle; width: 8%; height: 8%;">
+  </a>
+  </h3>
+</div>
 
 # Welcome to My Data Science ePortfolio!
 #### The ePortfolio contains seven (7) real-world projects that were completed as part of the University of Texas at Austin's Post Graduate Program in Data Science and Analytics, offered by Great Learning.
