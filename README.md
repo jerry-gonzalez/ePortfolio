@@ -95,7 +95,7 @@ I successfully completed the EasyVisa project as part of the Supervised Learning
 
 In the EasyVisa project, I played the role of a Data Scientist from the Office of Foreign Labor Certification (OFLC). The OFLC faced the challenge of efficiently processing an increasing number of employer applications for temporary and permanent labor certifications, which had surged by nine percent annually. My objective was to develop a Machine Learning (ML) solution to streamline the visa approval process by recommending profiles of applicants with higher chances of approval, considering key influencing factors. This model would expedite the visa certification process, ensuring compliance with statutory requirements and protecting US workers' wages and working conditions.
 
-* [Easy Visa Project Python Code and Analysis](https://jerry-gonzalez.github.io/ePortfolio/DS/prj5_easy_visa/Project5_EasyVisa_JerryGonzalez.html)
+* [EasyVisa Project Python Code and Analysis](https://jerry-gonzalez.github.io/ePortfolio/DS/prj5_easy_visa/Project5_EasyVisa_JerryGonzalez.html)
 
 ### Skills Demonstrated:
 - **Data Cleaning and Preprocessing:** Conducted extensive data cleaning, including missing value treatment, feature engineering, and outlier detection. Prepared the dataset by encoding categorical variables and normalizing data.
